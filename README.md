@@ -22,6 +22,10 @@ $ bundle exec pod install
 $ open Edhita.xcworkspace
 ```
 
+## Assets
+
+[Icon images](/Edhita/Images.xcassets/AppIcon.appiconset) and [logo PDF](/Edhita/Images.xcassets/Logo.imageset) are created by [IconCreator](https://github.com/tnantoka/IconCreator/tree/edhita) with Swift Playground.
+
 ## Objective-C
 
 Edhita 1.0 was written in Objective-C.  
